@@ -4,7 +4,7 @@ author: Nelson Silva <nelson.silva@inevo.pt>
 description: A Client Library for Nuxeo API
 homepage: https://github.com/nelsonsilva/nuxeo-dart-client
 environment:
-  sdk: '>=1.0.0 <2.0.0'
+  sdk: ">=2.12.0 <4.0.0"
 dependencies:
   browser: '>=0.10.0 <0.11.0'
   crypto: '>=0.9.0 <0.10.0'
